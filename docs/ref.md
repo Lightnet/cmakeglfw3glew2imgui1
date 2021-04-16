@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/9994045/copy-target-file-to-another-location-in-a-post-build-step-in-cmake
+https://stackoverflow.com/questions/40187227/why-is-initializing-gl3w-so-much-faster-than-initializing-glew
